@@ -2,8 +2,7 @@
 
 ## Team Information
 
-### Team Name
-*Replace this with your team name*
+Lovelyyy
 
 ### Team Members
 1. *Member 1 Name (GitHub Username)*
